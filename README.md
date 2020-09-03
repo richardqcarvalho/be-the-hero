@@ -55,5 +55,5 @@ Neste momento, você já deve estar com uma aba `localhost:3000` com a página d
 
 Você também deve ter aberta no navegador uma aba `localhost:19002` com a página do Expo para acessar o aplicativo mobile. Para acessá-lo, você deve instalar o aplicativo Expo, disponível na [Google Play](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=en) e na [App Store](https://apps.apple.com/us/app/expo-client/id982107779).
 
-Ao abrí-lo, você deve apertar em "Scan QR Code" e deve apontar para o QR code ao lado esquerdo da aba `localhost:19002`, na parte debaixo. Espere um tempo até que ele construa a visualização e **voilà**!
+Ao abrí-lo, você deve apertar em "Scan QR Code" e deve apontar para o QR code ao lado esquerdo da aba `localhost:19002`, na parte de baixo. Espere um tempo até que ele construa a visualização e **voilà**!
 
