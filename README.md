@@ -13,6 +13,7 @@ O Be The Hero é uma plataforma fictícia criada na Semana Omnistack 11, promovi
   - Cors
   - Express
   - SQLite3
+  - Celebrate
   
 - **Front-End Web**
   - ReactJS
